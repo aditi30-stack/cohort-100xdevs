@@ -1,0 +1,18 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "anagram": " ./01-js/tests/anagram.test.js",
+    "calculator": " ./01-js/tests/calculator.test.js",
+    "countVowels": " ./01-js/tests/countVowels.test.js",
+    "expenditure-analysis": " ./01-js/tests/expenditure-analysis.test.js",
+    "findLargestElement": " ./01-js/tests/findLargestElement.test.js",
+    "palindrome": "./01-js/tests/palindrome.test.js",
+    "todo-list": " ./01-js/tests/todo-list.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
